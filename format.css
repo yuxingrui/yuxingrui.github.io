@@ -1,0 +1,17 @@
+body{background-size:1500px 1000px ;}
+.box{background-color: bisque;}
+.box1{font-size: 30px;
+font-family: 楷体;
+color: blue;
+}
+.box2{
+    font-size: 50px;
+    font-weight: 200;
+    color: red;
+    font-family: 楷体;
+}
+.box3{
+    font-size: 25px;
+font-family: 楷体;
+color: blanchedalmond;
+}
